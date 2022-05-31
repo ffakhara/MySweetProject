@@ -5,7 +5,7 @@
 ### Table of Content:
 
 
-- [Supported Operating System](Supported-Operating-System)  
+- [Supported Operating System](Supported-Operating-System:). 
 - [Install in Linux](1.-Linux:).
 - [Install in Windows](#Windows).
 - [Resources](#Resources).
@@ -33,7 +33,7 @@ Note: _Use_ ```-y ```as an argument to accept changes.
    ```sudo service reload ```
  ### 4. Delete all the content from tmp  folder
    sh
-   ```sudo rm -rf /tmp/ ```
+   ```sudo rm -rf /tmp/ ```*
  
  ### 5. Reload services.
   sh 
