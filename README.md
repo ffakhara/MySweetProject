@@ -4,7 +4,8 @@
 
 ### Table of Content:
 
-## - [Supported Operating System](#Supported-Operating-System)  
+
+- [Supported Operating System](Supported-Operating-System)  
 - [Install in Linux](1.-Linux:).
 - [Install in Windows](#Windows).
 - [Resources](#Resources).
